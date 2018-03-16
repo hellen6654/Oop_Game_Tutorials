@@ -1,6 +1,4 @@
-﻿  AssemblyInfo.cpp
-  GitTutorial.cpp
-  正在產生程式碼...
+﻿  GitTutorial.cpp
   AssemblyInfo.obj : Managed 程式碼存在時不支援 /DEBUG:FASTLINK; 正在以 /DEBUG:FULL 重新啟動連結
   GitTutorial.vcxproj -> C:\Users\NTUTCSIE\Documents\OOP_GAME\GitTutorial\Debug\GitTutorial.exe
   GitTutorial.vcxproj -> C:\Users\NTUTCSIE\Documents\OOP_GAME\GitTutorial\Debug\GitTutorial.pdb (Partial PDB)
