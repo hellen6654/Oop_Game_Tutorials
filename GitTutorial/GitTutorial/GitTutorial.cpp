@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace System;
 bool Guess(int number) {
-	return 0;
+	return 1;
 }
 int main(array<System::String ^> ^args)
 {
